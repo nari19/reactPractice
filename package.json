@@ -4,7 +4,7 @@
   "description": "Repository for practicing react",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx babel --watch src --out-dir . --presets react-app/prod "
   },
   "repository": {
     "type": "git",

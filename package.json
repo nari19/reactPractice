@@ -4,7 +4,7 @@
   "description": "Repository for practicing react",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "npx babel --watch src --out-dir . --presets react-app/prod "
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/nari19/reactPractice/issues"
   },
-  "homepage": "https://github.com/nari19/reactPractice#readme"
+  "homepage": "https://github.com/nari19/reactPractice#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
 }

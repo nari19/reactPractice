@@ -1,0 +1,20 @@
+{
+  "name": "reactPractice",
+  "version": "1.0.0",
+  "description": "Repository for practicing react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nari19/reactPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nari19/reactPractice/issues"
+  },
+  "homepage": "https://github.com/nari19/reactPractice#readme"
+}
